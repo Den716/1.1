@@ -18,8 +18,8 @@ namespace ConsoleApp1
             double mana = 99.9;
             char symbol = 'A';
             string userName = "Денис";
-            bool exit = true;
-            bool entrance = false;
+            bool isExit = true;
+            byte maxSpeed = 255;
         }
     }
 }
