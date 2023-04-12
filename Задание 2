@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int numberOfCoins = -20;
+            uint age = 10;
+            long numberOfPlayer = 1000;
+            ulong amountOfLife = 100;
+            float armor = 25.5f;
+            double mana = 99.9;
+            char symbol = 'A';
+            string userName = "Денис";
+            bool exit = true;
+            bool entrance = false;
+        }
+    }
+}
